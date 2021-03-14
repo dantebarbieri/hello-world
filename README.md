@@ -22,7 +22,7 @@ Java is a moderately tricky language, and if you can learn it, you will be able 
   - This means that the program scans for errors and then is translated in realtime, so you need to do more steps to get a Java program running.
   - You will likely be using an Integrated Development Environment (IDE) to avoid manually going through the process, but this reduces the flexibility you have when choosing an editor.
 
-Recommended Editors
+### Recommended Editors
 - Java-Specific Editors:
   - IntelliJ
   - NetBeans
@@ -53,7 +53,7 @@ Despite the similar-sounding name, Javascript and Java are very different langua
 - You will often be dealing with HTML and CSS, which can complicate things a little, and there will be differences depending on which browser for which you wish to write Javascript.
   - There's a running joke among web developers that writing code to support Internet Explorer 6 is a lost art for a reason. (Internet Explorer is famously bad at following Javascript standards and often code must be entirely rewritten to support it)
 
-Recommended Editors
+### Recommended Editors
 - Visual Studio Code
 - Atom
 - Sublime Text
@@ -77,7 +77,7 @@ Python is probably one of the most popular languages out there. It is generally 
 - The code is particularly slow and inefficient compared with performance languages like C/C++.
 - People who learn Python and do not advance to more serious languages tend to overestimate their programming skills dramatically.
 
-Recommended Editors
+### Recommended Editors
 - Python-Specific Editors:
   - Pycharm
   - Spyder
@@ -102,6 +102,9 @@ If you choose to use IntelliJ, NetBeans, Pycharm, Spyder, VS Code, or Atom, I ca
    1. If you choose to program, advance directly to Java unless it proves too difficult, then focus more on Javascript or possibly try Python (I don't recommend Python if you already know some programming).
    2. If you choose web development, learn Javascript's flavors and try to get freelance web development work from friends and their associates. You can test yourself and help someone out at the same time.
 
+There are more options and plans than just these, but this is probably what I'd recommend without knowing how logical you are and how much time you can devote to learning.
+
+## General Plans
 Ultimately, if you want to make games, you'll want to learn C++. You can do some stuff in C#, which is similar to Java, but you'll need to know Java at the very least.
 
 If you like AI and machine learning, you can stick with Python all the way, but the mathematics is complicated, and the code is generally opaque because you won't know exactly why the computer makes the decisions it does.
